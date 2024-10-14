@@ -1,3 +1,5 @@
+pipx install git+https://github.com/KacperBardecki-Malloy/labelle-LabelWriter550.git
+
 # Labelle
 
 [![GitHub Actions (Tests)](https://github.com/labelle-org/labelle/workflows/Tests/badge.svg)](https://github.com/labelle-org/labelle)
